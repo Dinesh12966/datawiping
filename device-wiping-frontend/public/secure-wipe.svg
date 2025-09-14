@@ -1,0 +1,5 @@
+<!-- public/secure-wipe.svg -->
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M16 2L3 10v12l13 8 13-8V10L16 2z" fill="#3b82f6"/>
+  <path d="M16 6l-9 6v10l9 6 9-6V12l-9-6z" fill="#ffffff"/>
+</svg>
